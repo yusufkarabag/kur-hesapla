@@ -1,6 +1,6 @@
 
-def DolarKuru(tlGir):
+def kurHesapla(tlGir):
    kur = 35
    return tlGir / kur
 
-print(DolarKuru(500))
+print(kurHesapla(500))
