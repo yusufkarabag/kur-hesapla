@@ -1,0 +1,2 @@
+# kur-hesapla
+Kur hesapla
